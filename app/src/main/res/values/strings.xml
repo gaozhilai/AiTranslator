@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AiTranslator</string>
+    <string name="no_content_hint">剪贴板内容为空，请先复制需要翻译的文字</string>
+</resources>
